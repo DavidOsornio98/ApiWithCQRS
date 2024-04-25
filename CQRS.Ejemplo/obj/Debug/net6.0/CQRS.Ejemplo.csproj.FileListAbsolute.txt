@@ -47,3 +47,9 @@ C:\Users\oogd948721\source\repos\CQRS.Ejemplo\CQRS.Ejemplo\bin\Debug\net6.0\Micr
 C:\Users\oogd948721\source\repos\CQRS.Ejemplo\CQRS.Ejemplo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\oogd948721\source\repos\CQRS.Ejemplo\CQRS.Ejemplo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\oogd948721\source\repos\CQRS.Ejemplo\CQRS.Ejemplo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\oogd948721\source\repos\CQRS.Ejemplo\CQRS.Ejemplo\bin\Debug\net6.0\out\web.config
+C:\Users\oogd948721\source\repos\CQRS.Ejemplo\CQRS.Ejemplo\bin\Debug\net6.0\out\appsettings.Development.json
+C:\Users\oogd948721\source\repos\CQRS.Ejemplo\CQRS.Ejemplo\bin\Debug\net6.0\out\appsettings.json
+C:\Users\oogd948721\source\repos\CQRS.Ejemplo\CQRS.Ejemplo\bin\Debug\net6.0\out\CQRS.Ejemplo.deps.json
+C:\Users\oogd948721\source\repos\CQRS.Ejemplo\CQRS.Ejemplo\bin\Debug\net6.0\out\CQRS.Ejemplo.runtimeconfig.json
+C:\Users\oogd948721\source\repos\CQRS.Ejemplo\CQRS.Ejemplo\obj\Debug\net6.0\CQRS.Ejemplo.sourcelink.json
